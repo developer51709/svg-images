@@ -1,0 +1,19 @@
+<svg width="300" height="300" viewBox="0 0 300 300">
+  <g transform="translate(150,150)">
+    <g>
+      <circle r="40" fill="none" stroke="#ff6ec4" stroke-width="4"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle r="70" fill="none" stroke="#7873f5" stroke-width="4"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle r="100" fill="none" stroke="#00eaff" stroke-width="4"/>
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
