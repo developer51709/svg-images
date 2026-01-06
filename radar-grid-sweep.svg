@@ -1,0 +1,24 @@
+<svg width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <radialGradient id="fade" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00eaff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- grid -->
+  <g stroke="#0a3b4f" stroke-width="1">
+    <line x1="150" y1="0" x2="150" y2="300"/>
+    <line x1="0" y1="150" x2="300" y2="150"/>
+    <circle cx="150" cy="150" r="50" fill="none"/>
+    <circle cx="150" cy="150" r="100" fill="none"/>
+    <circle cx="150" cy="150" r="140" fill="none"/>
+  </g>
+
+  <!-- sweep -->
+  <path d="M150,150 L150,10"
+    stroke="url(#fade)" stroke-width="6" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 150 150" to="360 150 150" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>
