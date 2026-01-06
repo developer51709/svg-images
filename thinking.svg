@@ -1,0 +1,14 @@
+<svg width="240" height="80">
+  <polyline 
+    points="0,40 40,20 80,60 120,30 160,50 200,10 240,40"
+    fill="none"
+    stroke="#8a2be2"
+    stroke-width="4">
+    <animate 
+      attributeName="stroke-dasharray"
+      values="5,15; 15,5; 5,15"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </polyline>
+</svg>
