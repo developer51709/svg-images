@@ -39,7 +39,7 @@ Below is a set of tiny, consistent badges used throughout this README:
 ---
 
 # 🎨 **Animations**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#ec4899">⚗️</text></svg>
+![ExperimentBadge](./badges/experimental.svg)
 
 This repository includes:
 
@@ -51,12 +51,12 @@ This repository includes:
 - Utility animations  
 
 More animations are added regularly  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#f59e0b">🚧</text></svg>
+![Construction Badge](./badges/construction.svg)
 
 ---
 
 # 📄 **Documentation**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#38bdf8">📄</text></svg>
+![Documentation Badge](./badges/documentation.svg)
 
 All animations are:
 
@@ -70,7 +70,7 @@ See the `/docs` folder for full usage examples.
 ---
 
 # ❓ **FAQ**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#a855f7">❓</text></svg>
+![FAQ Badge](./badges/faq.svg)
 
 **Q: Do these work in GitHub READMEs?**  
 A: Yes — all animations are pure SVG and fully compatible.
@@ -81,7 +81,7 @@ A: Absolutely. Every SVG is editable.
 ---
 
 # 🔧 **Setup**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#06b6d4">🔧</text></svg>
+![Setup Badge](./badges/setup.svg)
 
 Just copy any SVG block into your README.  
 No build steps. No dependencies.
@@ -89,7 +89,7 @@ No build steps. No dependencies.
 ---
 
 # 🧰 **Tools**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#3b82f6">🧰</text></svg>
+![Tools Badge](./badges/tools.svg)
 
 Helpful utilities included:
 
@@ -100,7 +100,7 @@ Helpful utilities included:
 ---
 
 # 📝 **Changelog**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#14b8a6">📝</text></svg>
+![Changelog Badge](./badges/changelog.svg)
 
 See `CHANGELOG.md` for updates.
 
