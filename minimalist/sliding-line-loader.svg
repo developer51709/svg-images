@@ -1,0 +1,5 @@
+<svg width="120" height="6">
+  <rect x="0" y="0" width="40" height="6" fill="#333">
+    <animate attributeName="x" values="0;80;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
