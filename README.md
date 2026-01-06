@@ -106,16 +106,14 @@ See `CHANGELOG.md` for updates.
 
 ---
 
-# 🐛 **Issues**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#f43f5e">🐛</text></svg>
+# ![Issues Badge](./badges/issues.svg) **Issues**  
 
 Found a bug or want to request a new animation?  
 Open an issue — contributions are welcome.
 
 ---
 
-# ⬇️ **Downloads**  
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="24" height="24" rx="6" fill="#1e293b"/><text x="12" y="16" text-anchor="middle" font-size="14" fill="#10b981">⬇️</text></svg>
+# ![Downloads Badge](./badges/downloads.svg) **Downloads**  
 
 Clone the repo:
 
