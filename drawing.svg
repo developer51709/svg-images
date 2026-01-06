@@ -1,0 +1,17 @@
+<svg width="220" height="220" viewBox="0 0 200 200">
+  <polygon 
+    points="100,10 190,190 10,190"
+    fill="none"
+    stroke="#00c9a7"
+    stroke-width="4"
+    stroke-linejoin="round"
+    stroke-dasharray="600"
+    stroke-dashoffset="600">
+    <animate 
+      attributeName="stroke-dashoffset"
+      from="600" to="0"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </polygon>
+</svg>
