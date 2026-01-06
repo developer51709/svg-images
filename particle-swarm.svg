@@ -1,0 +1,16 @@
+<svg width="300" height="300" viewBox="0 0 300 300">
+  <g transform="translate(150,150)">
+    <circle r="3" fill="#fff">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#ff6ec4" transform="translate(40,0)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="360" to="0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#00eaff" transform="translate(80,0)">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
