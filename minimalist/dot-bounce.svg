@@ -1,0 +1,11 @@
+<svg width="80" height="20">
+  <circle cx="10" cy="10" r="4" fill="#666">
+    <animate attributeName="cy" values="10;4;10" dur="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="30" cy="10" r="4" fill="#666">
+    <animate attributeName="cy" values="10;4;10" dur="0.6s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="50" cy="10" r="4" fill="#666">
+    <animate attributeName="cy" values="10;4;10" dur="0.6s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
