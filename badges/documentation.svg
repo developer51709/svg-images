@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="32">
+  <rect rx="6" width="150" height="32" fill="#1e293b"/>
+  <rect rx="6" width="32" height="32" fill="#0ea5e9">
+    <animate attributeName="opacity" values="1;0.7;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="44" y="21" font-family="monospace" font-size="14" fill="#e2e8f0">Documentation</text>
+</svg>
