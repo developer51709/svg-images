@@ -1,0 +1,21 @@
+<svg width="260" height="260" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="tri" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#0066ff"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(100,100)">
+    <polygon id="tri-shape"
+      points="0,-70 60,50 -60,50"
+      fill="none" stroke="url(#tri)" stroke-width="4">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0" to="360" dur="5s" repeatCount="indefinite"/>
+    </polygon>
+
+    <circle r="4" fill="#00f0ff">
+      <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
